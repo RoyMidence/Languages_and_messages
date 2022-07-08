@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hello/Goodbye</string>
+
+    <string name="username" style="@styles/Header">Username</string>
+    <string name="password" style="@styles/Header">Password</string>
+    <string name="language" style="@styles/Header">English</string>
+    <string name="name_label" style="@styles/Header">Name</string>
+    <string name="city_label" style="@styles/Header">City</string>
+
+
+    <string name="greeting_button">Greeting</string>
+    <string name="greeting_button_event">Hello</string>
+    <string name="goodbye_button">Goodbye</string>
+    <string name="goodbye_button_event">See You Later</string>
+    <string name="login_button">LOGIN</string>
+    <string name="show_city_button">Show City</string>
+</resources>

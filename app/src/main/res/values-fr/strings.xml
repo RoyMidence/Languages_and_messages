@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bonjour/Au Revoir</string>
+
+    <string name="username" style="@styles/Header">Nom d’utilisateur</string>
+    <string name="password" style="@styles/Header">Mot de passe</string>
+    <string name="language" style="@styles/Header">Francais</string>
+    <string name="name_label" style="@styles/Header">Prenom</string>
+    <string name="city_label" style="@styles/Header">Ville</string>
+
+
+    <string name="greeting_button">Salutation</string>
+    <string name="greeting_button_event">Bon jour</string>
+    <string name="goodbye_button">Au revoir</string>
+    <string name="goodbye_button_event">A plus tard</string>
+    <string name="login_button">S’identifier</string>
+    <string name="show_city_button">Afficher La Ville</string>
+</resources>

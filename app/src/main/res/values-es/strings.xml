@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hola/Adios</string>
+
+    <string name="username" style="@styles/Header">Nombre de usuario</string>
+    <string name="password" style="@styles/Header">Contrasena</string>
+    <string name="language" style="@styles/Header">Espanol</string>
+    <string name="name_label" style="@styles/Header">Nombre</string>
+    <string name="city_label" style="@styles/Header">Ciudad</string>
+
+
+    <string name="greeting_button">Saludo</string>
+    <string name="greeting_button_event">Hola</string>
+    <string name="goodbye_button">Adios</string>
+    <string name="goodbye_button_event">Hasta luego</string>
+    <string name="login_button">Iniciar sesion</string>
+    <string name="show_city_button">Mostrar Ciudad</string>
+</resources>
